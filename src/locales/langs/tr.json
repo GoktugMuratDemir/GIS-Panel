@@ -1,0 +1,24 @@
+{
+  "app": "Uygulama",
+  "job": "İş",
+  "home": "Ana Sayfa",
+  "welcome": "Hoşgeldin",
+  "profile_info": "Profil Bilgilerim",
+  "show_workers": "İşçiler Görüntüle",
+  "show_works": "İşlerim Sayfasını Görüntüle",
+  "show_fields": "Tarlalarım Sayfasını Görüntüle",
+  "profile": "Profil",
+  "Workers": "İşçiler",
+  "my_works": "İşlerim",
+  "fields": "Tarlalar",
+  "show": "Görüntüle",
+  "emergency": "Acil Durum",
+  "work_program": "İş Programı",
+  "definations": "Tanımlar",
+  "work_types": "İş Tipleri",
+  "daily_location_report": "Günlük Konum Raporu",
+
+  "demo": {
+    "title": "Türkçe"
+  }
+}
