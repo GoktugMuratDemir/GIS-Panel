@@ -60,6 +60,10 @@ Bu proje, coğrafi bilgi sistemleri (GIS) kullanarak geliştirilmiş bir yöneti
 
 <img src="./Readme Assets/Admin/Home.png" />
 
+##### a.1) Home(EN)
+
+<img src="./Readme Assets/EN.png" />
+
 ##### b) Emergency
 
 <img src="./Readme Assets/Admin/Emergency Page.png" />
