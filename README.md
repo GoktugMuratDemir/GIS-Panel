@@ -101,7 +101,7 @@ Bu proje, coğrafi bilgi sistemleri (GIS) kullanarak geliştirilmiş bir yöneti
 
 ##### j) Daily Location Report
 
-<img src="./Readme Assets/Admin/Rapor.png" />
+<img src="./Readme Assets/Admin/Report_Location.png" />
 
 ### 2) User
 

@@ -93,6 +93,13 @@ export default function ShowAllLocations() {
     { lat: temp_center.lat - edgeLength1 / 1.7, lng: temp_center.lng - edgeLength2 / 3 },
   ];
 
+  const marker_locations = [
+    { lat: temp_center.lat + edgeLength1 / 2.4, lng: temp_center.lng - edgeLength2 / 2.2 },
+    { lat: temp_center.lat + edgeLength1 / 1.5, lng: temp_center.lng + edgeLength2 / 3.4 },
+    { lat: temp_center.lat - edgeLength1 / 10.6, lng: temp_center.lng + edgeLength2 / 9.6 },
+    { lat: temp_center.lat - edgeLength1 / 9.7, lng: temp_center.lng - edgeLength2 / 3.2 },
+  ];
+
   // console.log(currentCenter);
 
   return (
@@ -106,7 +113,7 @@ export default function ShowAllLocations() {
             onLoad={onLoad}
             onUnmount={onUnmount}
           >
-            {temp_locations.map((item, index) => (
+            {marker_locations.map((item, index) => (
               <Marker
                 key={index}
                 icon={{
